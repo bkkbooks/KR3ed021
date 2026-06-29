@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ed021/jc/v1/juan/0
+seq: 0
+front:
+  text: 仁齋直指序余始撰活人總括嬰兒指要俗皆以沽名譏及脈書一行於是斂肅而相告曰誠不易也誰肯傾囷竭廩以徇人哉余曰爾亦知有天乎天將寓其濟人利物之心故資我以心通意曉之學既得於天還以事之是蓋造物初心之所期也或者隙光自耀藏諸己而不溥諸人政恐玉毀櫝中草木俱腐矣雖然人有四百四病或出於前三冊之外者可不原證擇方揭為直指之捷徑乎明白易曉之謂直發蹤以示之謂指剖前哲未言之蘊摘諸家已效之方濟以家傳參之肘後使讀者心目瞭然對病識證因證得藥猶繩墨誠陳之不可欺庶幾仁意周流亹亹相續非深願歟余嘗慨而作曰天之予人以是物必使之有以用是物有是物而不能用非惟拂天抑亦自棄其天者也並書此為同志勉景定甲子良月朔三山楊士瀛登父序
+  hash: sha256:9b01dbd41adcfec4debcec821e586c8af6c23037304bdd245a63018842b68645
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed021_jc_000-d2.h1s1}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 仁齋直指方論
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed021.xml
+hash: sha256:b008a12e198b005b6d9f43d038b04dd3f418dbbc7b70743d0fbcce1bfa661908
