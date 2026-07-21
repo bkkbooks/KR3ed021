@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed021_000.yaml, hash: 'sha256:09773392544dc8f4c16ec3c850ae19b0fc726bf4c2e605b8f93d426601388a1c'}
+  - {seq: 0, filename: KR3ed021_000.yaml, hash: 'sha256:5b8d42b733031cb05b943bdfcfd6fd38c2b22d5ae3b675ce46b41e99d7c64d26'}
   - {seq: 1, filename: KR3ed021_001.yaml, hash: 'sha256:32918b0da0709c9c87b8b609833dfb6d9548686165d45df1245497ed434cfa86'}
   - {seq: 2, filename: KR3ed021_002.yaml, hash: 'sha256:026bb19f34c3f7979546c97390c69da5f8244652f92d9b8610bfd1a334b99874'}
   - {seq: 3, filename: KR3ed021_003.yaml, hash: 'sha256:69a83d7c8453ff4e3ded7692e45d4a6260ed025fe8dc1d34dacfc6d7bf6dc0cb'}
@@ -45,7 +45,7 @@ assets:
   - {seq: 25, filename: KR3ed021_025.yaml, hash: 'sha256:5ed19a25cb9f508673bfb0e505e59eec3b50a8996fac9dbcff3d89d21d25b8b9'}
   - {seq: 26, filename: KR3ed021_026.yaml, hash: 'sha256:7c78adce6c723bdf780113b38723ed403c6a63f156f0b5f5c32a602badea8b60'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed021_000.markers.yaml, hash: 'sha256:cd06a3a9a14f28acdc50572161cdde78c02a0d6a179e06d477b6889a62c8c887'}
+  - {seq: 0, role: markers, filename: assets/KR3ed021_000.markers.yaml, hash: 'sha256:645780f6264619367733fa6cd2881b32540ba74d48f99316afdd899acbb2bfbf'}
   - {seq: 1, role: markers, filename: assets/KR3ed021_001.markers.yaml, hash: 'sha256:cd68a2e3154e02aec825203d93671233f018535da6dfdb1b8cf5e24792ca6e97'}
   - {seq: 2, role: markers, filename: assets/KR3ed021_002.markers.yaml, hash: 'sha256:85c8e5e65d92683d8e617985ffe95fd85ae039e7601e3ab57d76ff5546013ab6'}
   - {seq: 3, role: markers, filename: assets/KR3ed021_003.markers.yaml, hash: 'sha256:3b625f13e172fbb62131ae8a2c0e51256f0e2da5a21bc37d31855d235c013dea'}
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed021_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 287
   label: 仁齋直指序
@@ -5043,7 +5043,7 @@ table_of_contents:
   label: 附救凍死法
   type: section
   level: 3
-hash: sha256:f41a539a0c90d8a029164d74dc57ddc1482917147e84c7a2846c34c0cdd0dea4
+hash: sha256:2770ff0c372da18078d4f9a8211db1b4a2bf919c85c5476dca6396107c2a6785
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

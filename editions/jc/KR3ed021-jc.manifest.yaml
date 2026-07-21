@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ed021_000-jc.yaml, hash: 'sha256:b008a12e198b005b6d9f43d038b04dd3f418dbbc7b70743d0fbcce1bfa661908'}
+  - {seq: 0, filename: KR3ed021_000-jc.yaml, hash: 'sha256:9af821d7e14eccaa886fea6b3bc88f30de53d5d4ee9ff0bf017fa9283b257eb1'}
   - {seq: 1, filename: KR3ed021_001-jc.yaml, hash: 'sha256:17b0b76e90f730444230754bbda12b41458c7ffd9fb82f68bf1cfbcf30034bc2'}
   - {seq: 2, filename: KR3ed021_002-jc.yaml, hash: 'sha256:be5107e2f892d81f3e6bd011af87c7216356663a29b8f147e9cac64a992e0916'}
   - {seq: 3, filename: KR3ed021_003-jc.yaml, hash: 'sha256:3a6c95ba7817fc4db9c1e1f54a7e8860d25b371ecef112c2cd739f107d359a7a'}
@@ -45,7 +45,7 @@ assets:
   - {seq: 25, filename: KR3ed021_025-jc.yaml, hash: 'sha256:cd701635fd5e236858ecfa6e1e946c1e99e396960d7568c29256310403c95607'}
   - {seq: 26, filename: KR3ed021_026-jc.yaml, hash: 'sha256:b2d7c8c6c5a424addf528ba7b8b2564b50ce5f147d302928ba1504874d91d269'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed021_000-jc.markers.yaml, hash: 'sha256:784e4a73a98dbf1f660e9b900ee28146c4a74f153fcf92ba073163ce8cf10186'}
+  - {seq: 0, role: markers, filename: assets/KR3ed021_000-jc.markers.yaml, hash: 'sha256:30d0a81c4276cd885f14f54380ce4b2a8d0479becd2292273b19158d185acd09'}
   - {seq: 1, role: markers, filename: assets/KR3ed021_001-jc.markers.yaml, hash: 'sha256:2320ed3c3baff1f833230eed00bf6d2c70835377f8e46281a062dac0f41a2af1'}
   - {seq: 2, role: markers, filename: assets/KR3ed021_002-jc.markers.yaml, hash: 'sha256:9dafa9faa31a2f9cc73f76935dfcffed1cfdba6f6e9add0f36cc3577ea786ccf'}
   - {seq: 3, role: markers, filename: assets/KR3ed021_003-jc.markers.yaml, hash: 'sha256:7ac1efeaf99917dd79bdfaef5ff4f509d0c8d9822d73d39dd74a0f3a0f7f27a9'}
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed021_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 287
   label: 仁齋直指序
@@ -5043,4 +5043,4 @@ table_of_contents:
   label: 附救凍死法
   type: section
   level: 3
-hash: sha256:7b4a86467a7234ce88719501496fe2b1be4a900e3501282040aee8be2bfe455d
+hash: sha256:5ea8d093a02f8b0b617a2d0c18f1625b354a5309685b5697bd1ba181d26c8ede
